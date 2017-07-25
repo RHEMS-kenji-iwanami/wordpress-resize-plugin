@@ -1,0 +1,2 @@
+# wordpress-resize-plugin
+plugin
